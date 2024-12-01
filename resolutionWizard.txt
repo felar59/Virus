@@ -1,0 +1,41 @@
+vert haut gauche, bas gauche
+jaune bas gauche,
+rouge bas gauche,
+blanc haut gauche, haut droite
+rouge haut droite, bas droite, haut droite
+jaune haut droite,
+vert haut droite, bas droite
+bleu bas droite, bas gauche, bas droite, bas droite
+violet bas gauche, haut gauche
+blanc bas gauche, haut gauche, bas droite, bas droite, bas droite
+jeune POUSSE rouge haut gauche, haut droite
+rose POUSSE vert haut droite
+blanc bas droite, bas gauche
+bleu haut gauche, haut gauche
+vert bas gauche
+jaune bas gauche, bas droite
+blanc haut droite, haut droite, haut droite
+violet POUSSE rouge haut droite
+bleu bas droite, bas gauche, bas gauche
+rouge POUSSE blanc bas gauche
+violet bas droite
+violet POUSSE rouge haut droite
+bleu haut droite, haut gauche, haut droite, haut gauche
+blanc bas gauche
+violet POUSSE rouge bas droite
+rouge bas droite
+violet haut droite
+vert POUSSE blanc haut gauche
+vert bas gauche
+rouge POUSSE jaune bas gauche
+violet bas droite, haut droite
+jaune POUSSE rouge haut droite
+vert haut droite, bas droite
+blanc bas droite, bas gauche
+bleu bas droite, haut droite
+vert haut gauche, haut gauche, haut gauche
+rouge POUSSE jaune bas gauche
+bleu bas droite
+vert haut droite, haut gauche
+
+70 coups
